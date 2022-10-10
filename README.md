@@ -10,7 +10,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-  <img src="https://www.pinterest.com/pin/211174973018811/" align="right">
+  <img src="https://imgur.com/gallery/O3EIPHp/"width="250" align="right">
   </div>
 <li>
  <b>Name:</b> Nhung Di</li>
